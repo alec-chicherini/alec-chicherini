@@ -8,4 +8,4 @@ git, bash, cmake, Docker, python for scripting
 
 ## Чем занимаюсь сейчас
 - Делаю пет проект https://github.com/alec-chicherini/wordle-task
-- Решаю задачи, готовлюсь к алгоритмическим собеседованиям: https://gist.github.com/alec-chicherini
+- Экспериментирую со сборкой и деплоем: https://repotest.ru/index.html
