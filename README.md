@@ -7,4 +7,4 @@ Qt, boost, cryptopp
 git, bash, cmake, Docker, python for scripting
 
 ## Чем занимаюсь сейчас
-- Делаю пет проект [https://github.com/alec-chicherini/wordle-task](https://github.com/alec-chicherini/pet-projects-production)
+- Делаю пет проект https://github.com/alec-chicherini/pet-projects-production
